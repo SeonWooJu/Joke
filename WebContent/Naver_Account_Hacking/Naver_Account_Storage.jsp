@@ -33,7 +33,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>낚시</title>
 </head>
 <body>
 	<h1>낚시임 ㅅㄱ</h1>

@@ -23,7 +23,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>NAVER Account List</title>
 <style type="text/css">
 #border {
 	border: 1px solid black;
